@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cf-app/static/css/main.3098fb7e.css",
+    "main.js": "/cf-app/static/js/main.f2904a15.js",
+    "static/js/787.ca0c9e1e.chunk.js": "/cf-app/static/js/787.ca0c9e1e.chunk.js",
+    "static/media/the_office.jpg": "/cf-app/static/media/the_office.b7a02c2d91d63dc0bcd1.jpg",
+    "static/media/logo.svg": "/cf-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/loading.svg": "/cf-app/static/media/loading.ab1fbe1033bb43050d603a789f9ae5f3.svg",
+    "index.html": "/cf-app/index.html",
+    "main.3098fb7e.css.map": "/cf-app/static/css/main.3098fb7e.css.map",
+    "main.f2904a15.js.map": "/cf-app/static/js/main.f2904a15.js.map",
+    "787.ca0c9e1e.chunk.js.map": "/cf-app/static/js/787.ca0c9e1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3098fb7e.css",
+    "static/js/main.f2904a15.js"
+  ]
+}
